@@ -1,0 +1,116 @@
+## intent:application
+- where do i apply
+- where can i apply
+- where do i apply to tu delft
+- where can i apply to tu delft
+- where can i submit my application
+- where do i submit my application
+- where can i signup for embedded systems
+- where can see if i am accepted
+- how do i apply
+- how can i apply
+- how do i apply to tu delft
+- how do i enroll for embedded systems
+- how do i enroll for the study
+- how can i apply to tu delft
+- how can i submit my application
+- how can i enroll
+- how can i enroll at the tud
+- how can i enroll at tu delft
+- how do i submit my application
+- how to enroll
+- how do i find out if i have been granted admission
+- how does the enrollment work
+- how does the enrollment process go
+- enrollment
+- enrollment deadline
+- when do i apply
+- when can i apply
+- when do i apply to tu delft
+- when can i apply to tu delft
+- when can i submit my application
+- when do i submit my application
+- when do i know if i am accepted
+- when will i know if i am accepted to the study program
+- when is the enrollment deadline
+- when is the deadline to sign up for embedded systems
+- what is the application process
+- what is the application deadlines for an msc in computer science
+- what requirements should i fulfill to be able to study embedded systems
+- what requirements are needed to study
+- what are the requirements to start the study
+- what are the admission requirements
+- what diploma should i have
+- what diploma is required
+- what degree do i need
+- what degree is needed for embedded systems
+- what degree do i need for embedded systems
+- application deadlines
+- application process
+- application embedded systems
+- application master
+- application for embedded systems
+- application for master
+- apply embedded systems
+- apply master
+- apply for embedded systems
+- apply for master
+- application deadlines embedded systems
+- application deadlines master
+- application deadlines for embedded systems
+- application deadlines for master
+- can you help me with application deadline
+- can you tell me how i have to enrol
+- sign up deadline
+- registration deadline
+- please explain how to enroll
+- how can i get a visa
+- how will i get a residence permit
+- will the tu delft provide me a residence permit
+- can i get a residence permit for my study
+- can i get a visa
+- how to get a visa
+- how to get a residence permit
+- how can i be permitted to stay
+- how can i be permitted to stay in the netherlands
+- can i get a permit for living in the netherlands
+- what requirements are there
+- what requirements are there to enter 
+- what are the requirements
+- what are the requirements to enter
+- what is required
+- what degree do i need
+- what degree is required
+- what diploma do i need
+- what diploma is required
+- what bachelor do i need
+- what bachelor is required
+- what certificate do i need
+- what certificate is required
+- what is required to enter the embedded systems program
+- what are the requirements to enter the embedded systems program
+- what are the entry requirements to enter the embedded systems program
+- what is required for the embedded systems degree
+- what are the requirements for the embedded systems degree
+- what are the entry requirements for the embedded systems degree
+- is degree required
+- is degree a requirement
+- is degree a need
+- is degree a must
+- is diploma required
+- is diploma a requirement
+- is diploma a need
+- is diploma a must
+- is bachelor required
+- is bachelor a requirement
+- is bachelor a need
+- is bachelor a must
+- is certificate required
+- is certificate a requirement
+- is certificate a need
+- is certificate a must
+- is it possible to get accepted to the masters without first earning a bachelors
+- do i need a bachelor
+- do i need a diploma
+- do i need a degree
+- do i need a certificate

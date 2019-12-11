@@ -1,0 +1,113 @@
+## intent:reject
+- i have not
+- i will not
+- i did not
+- i cannot
+- no
+- nope
+- false
+- nee
+- noo
+- i haven t
+- nay
+- nix
+- never
+- not
+- uh-uh
+- nixie
+- nixy
+- nixey
+- nah
+- no way
+- no way jose
+- negative
+- veto
+- out of the question
+- under no circumstances
+- not likely
+- thumbs down
+- nno
+- non
+- go fish
+- certainly not
+- definitely not
+- by no means
+- i shall not
+- not likely
+- no thanks
+- i think not
+- unfortunately not
+- not possible
+- not this time
+- not for me
+- it s not my thing
+- i think i ll pass
+- not today
+- i am not interested
+- i ll need to bow out
+- i m afraid i can t
+- i have something else
+- i don’t think i want to
+- thanks but no thanks
+- rats would ve loved to
+- not now but another time
+- i m honored but i can t
+- i wish i were able to
+- damn not able to fit it in
+- i won t be able to help
+- i d love to but can t
+- i d rather not thanks
+- i wish i could make it work
+- i wish there were two of me
+- i find the idea undesirable
+- apologies but i can t make it
+- i m not able to make that time
+- i m booked into something else
+- sadly i have something else
+- sounds great but i can’t commit
+- no thank you but it sounds lovely
+- we appreciate the offer however
+- unfortunately it s not a good time
+- no thanks i won t be able to make it
+- thanks for thinking of me but i can t
+- no thanks i have another commitment
+- i appreciate your time but no thank you
+- i m not really into it but thanks for asking
+- i m not taking on anything else right now
+- they are rather negative
+- that would be really bad
+- that would be extremely bad for him
+- this would be rather bad
+- indeed very negative
+- very bad
+- extremely bad
+- surely this would be bad
+- that would be extremely negative
+- that would be very negative
+- that would be negative
+- this would be really negative
+- that would be slightly negative
+- that would be absolutely negative
+- that would be quite negative
+- the effects would be very negative
+- propably very negative
+- the effects would be more negative
+- negative
+- the effects would be very negative
+- more negative for sure
+- very negative
+- very negative indeed
+- that would be absolutely negative
+- the effects would be fatal
+- the effects would be more negative
+- extremely negative
+- the are rather negative
+- totally negative
+- i don t
+- i do not
+- i didn t
+- i did not
+- i haven t
+- i have not
+- i won t
+- i will not

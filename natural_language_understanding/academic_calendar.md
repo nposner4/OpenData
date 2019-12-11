@@ -1,0 +1,80 @@
+## intent:academic_calendar
+- calendar
+- academic calendar
+- academic dates
+- what is the academic calendar
+- what date does the study start
+- where is the academic calendar
+- where can i find a calendar
+- where can i find the academic calendar
+- when are the christmas holidays
+- when are the summer holidays
+- when are the holidays
+- when are the vacations
+- when is the break
+- when does school start
+- when does school begin
+- when does school end
+- when does school finish
+- when does the term start
+- when does the term begin
+- when does the term end
+- when does the term finish
+- when does the semester start
+- when does the semester begin
+- when does the semester end
+- when does the semester finish
+- when does the school year start
+- when does the school year begin
+- when does the school year end
+- when does the school year finish
+- when does the year start
+- when does the year begin
+- when does the year end
+- when does the year finish
+- when does the quarter start
+- when does the quarter begin
+- when does the quarter end
+- when does the quarter finish
+- when does the study start
+- when does embedded start
+- when is the school year
+- when is the start
+- when is the start of the year
+- when is the first day
+- when is the first lecture day
+- when is the last day
+- when is the first day of the study
+- when school year
+- when start
+- when first day
+- when last day
+- when vacation
+- when break
+- when holiday
+- where calendar
+- where academic calendar
+- where academic dates
+- is there a calendar that shows the important dates
+- is it already known when the first day is
+- is it already known when the school year starts
+- is it already known when the school year begins
+- is it already known when the semester starts
+- is it already known when the semester begins
+- is it already known when the year starts
+- is it already known when the year begins
+- is it already known when the term starts
+- is it already known when the term begins
+- Is there a calendar with the activities
+- Where can I find the activities
+- Any activities in the calendar
+- Do we have a calendar
+- Do we have activities
+- Where can I find the calendar for the activities
+- Where can I find the calendar
+- Where can I find the activities
+- Do we have an agenda with activities
+- Agenda with activities
+- Activities and agenda
+- Where can I find the calendar
+- When does the program start

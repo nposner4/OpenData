@@ -1,0 +1,55 @@
+## intent:library
+- where is the common room on campus
+- where are the study spaces on campus
+- where can i study in the faculty
+- how many libraries are there on campus
+- is the library open at
+- is the library open on
+- is the library closed at
+- is the library closed on
+- does the library open at
+- does the library close at
+- when is the library open
+- when is the library close
+- when does the library open
+- when does the library close
+- what time does the library open
+- what time does the library close
+- is the library open on weekends
+- is the library open during the vacation
+- is the library open during the holidays
+- is the library closed on weekends
+- is the library closed during the vacation
+- is the library closed during the holidays
+- where is the library
+- where can i access the library
+- how do i get to the library
+- which building is the library
+- where can i find the library
+- where is the the library on campus
+- what does the library look like
+- is the lib open at
+- is the lib open on
+- is the lib closed at
+- is the lib closed on
+- does the lib open at
+- does the lib close at
+- when is the lib open
+- when is the lib close
+- when does the lib open
+- when does the lib close
+- what time does the lib open
+- what time does the lib close
+- is the lib open on weekends
+- is the lib open during the vacation
+- is the lib open during the holidays
+- is the lib closed on weekends
+- is the lib closed during the vacation
+- is the lib closed during the holidays
+- where is the lib
+- where can i access the lib
+- how do i get to the lib
+- which building is the lib
+- where can i find the lib
+- where is the the lib on campus
+- what does the lib look like

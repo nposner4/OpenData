@@ -1,0 +1,30 @@
+## intent:purpose
+- what is your purpose
+- what is your main purpose
+- what is your life purpose
+- what do you do
+- what are you
+- what is your purpose in life
+- what can you do
+- what exactly is your purpose
+- tell me about your personality
+- why are you here
+- talk about yourself
+- tell me some stuff about you
+- talk some stuff about yourself
+- i want to know you better
+- i want to know more about you
+- who are you
+- tell me about yourself
+- tell me about you
+- about yourself
+- describe yourself
+- introduce yourself
+- say about you
+- what are you
+- define yourself
+- what is your personality
+- all about you
+- what are you upto
+- who the hell are you
+- what can you do for me

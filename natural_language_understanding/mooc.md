@@ -1,0 +1,73 @@
+## intent:mooc
+- are there any moocs you suggest i do
+- are there any moocs to do
+- are there any moocs i should do
+- are there any moocs
+- do you offer moocs
+- can i do a moocs before
+- is there moocs available somewhere
+- where can i find moocs
+- more information about moocs
+- tell me more about moocs
+- should i do moocs
+- what moocs can i do
+- are there any mooc you suggest i do
+- are there any mooc to do
+- are there any mooc i should do
+- are there any mooc
+- do you offer mooc
+- can i do a mooc before
+- is there mooc available somewhere
+- where can i find mooc
+- more information about mooc
+- tell me more about mooc
+- should i do mooc
+- what mooc can i do
+- are there any online courses you suggest i do
+- are there any online courses to do
+- are there any online courses i should do
+- are there any online courses
+- do you offer online courses
+- can i do a online courses before
+- is there online courses available somewhere
+- where can i find online courses
+- more information about online courses
+- tell me more about online courses
+- should i do online courses
+- what online courses can i do
+- are there any online course you suggest i do
+- are there any online course to do
+- are there any online course i should do
+- are there any online course
+- do you offer online course
+- can i do a online course before
+- is there online course available somewhere
+- where can i find online course
+- more information about online course
+- tell me more about online course
+- should i do online course
+- what online course can i do
+- are there any open online courses you suggest i do
+- are there any open online courses to do
+- are there any open online courses i should do
+- are there any open online courses
+- do you offer open online courses
+- can i do a open online courses before
+- is there open online courses available somewhere
+- where can i find open online courses
+- more information about open online courses
+- tell me more about open online courses
+- should i do open online courses
+- what open online courses can i do
+- are there any mooc courses you suggest i do
+- are there any mooc courses to do
+- are there any mooc courses i should do
+- are there any mooc courses
+- do you offer mooc courses
+- can i do a mooc courses before
+- is there mooc courses available somewhere
+- where can i find mooc courses
+- more information about mooc courses
+- tell me more about mooc courses
+- should i do mooc courses
+- what mooc courses can i do

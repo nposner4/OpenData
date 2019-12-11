@@ -1,0 +1,19 @@
+## intent:age
+- age limitations
+- age restrictions
+- average age
+- what is the average age
+- how old are people
+- how old are students
+- how young are people
+- how young are students
+- what is the average age of students
+- am i too old to start my masters
+- am i too young to start my masters
+- too young 
+- too old 
+- are there age limitations to attend tu delft
+- are there any older students
+- are there any younger students
+- am i too young
+- am i too old

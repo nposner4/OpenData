@@ -1,0 +1,58 @@
+## intent:contact
+- contact the university
+- email the university
+- e-mail the university
+- how do i contact the university
+- how can i contact someone from the university
+- how can i send an email to the university
+- how can i send an e-mail to the university
+- how can i contact someone
+- how can i send an email
+- how can i send an e-mail
+- where can i find email address
+- where can i find e-mail address
+- i would like to email
+- i would like to contact
+- i would like to come in contact with
+- do you have an email
+- do you have an e-mail
+- what is your email
+- what is your e-mail
+- I want to talk to a human
+- let me speak with a real person please
+- are there also humans working for your company
+- gimme a proper human
+- I don t wanna talk to a bot
+- Can I speak to anyone who can really help me
+- I dont like to talk to a machine
+- can you please connect me to a real rasa employee
+- give me a human now
+- that s annoying I d like to speak to someone real
+- i would like to speak to a person
+- can you put me in touch with a human
+- let me talk to a human
+- id like to talk to a real rasa employee
+- i dont wanna talk to a bot
+- talking to a bot is stupid
+- i want to talk to someone who is smarter than you
+- can i please speak to a human
+- i d rather speak with a real rasa employee
+- i want to talk to someone else
+- let me talk to a real person
+- please give me a human
+- i want to talk to a person
+- customer service
+- i want to speak to customer service
+- someone from customer care
+- can you forward me to your team
+- service agent
+- human handoff
+- give me a human
+- speak to a real person
+- i want to speak to a real person
+- wrong i want to speak to a human
+- Could I talk to Akela
+- i want to talk to someone at rasa
+- i want to speak to a manager
+- I want to talk to the founders
+- i want to talk to a human

@@ -1,0 +1,33 @@
+## intent:swearing
+- you're an asshole
+- bitch
+- cunt
+- whore
+- slut
+- twat
+- idiot
+- motherfucker
+- arse
+- ass
+- bastard
+- crap
+- fuck
+- goddammit
+- nigga
+- nigger
+- prick
+- son of a bitch
+- dick
+- cock
+- shit
+- asshole
+- shut up asshole
+- yo asshole
+- you're a cunt
+- cunt
+- shut up cunt
+- you're such a cunt
+- son of a bitch
+- you have a small dick
+- you are an asshole
+- what's up nigga
