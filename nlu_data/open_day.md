@@ -1,0 +1,142 @@
+## intent:open_day
+- are there any open day
+- can i go on a open day
+- do you have any open day
+- can i get more information about open day
+- tell me more about open day
+- when is the open day
+- when is your next open day
+- what time is the open day
+- what day is the open day
+- where can i find more information about open day
+- when are the dates for the open day
+- where can i sign up for open day
+- can i apply for open day
+- can i register for open day
+- how do i apply for open day
+- how do i register for open day
+- do you organise open day
+- does tu delft organise open day
+- is there any open day organised
+- i would like to know more about open day
+- are there any open days
+- can i go on a open days
+- do you have any open days
+- can i get more information about open days
+- tell me more about open days
+- when is the open days
+- when is your next open days
+- what time is the open days
+- what day is the open days
+- where can i find more information about open days
+- when are the dates for the open days
+- where can i sign up for open days
+- can i apply for open days
+- can i register for open days
+- how do i apply for open days
+- how do i register for open days
+- do you organise open days
+- does tu delft organise open days
+- is there any open days organised
+- i would like to know more about open days
+- are there any openday
+- can i go on a openday
+- do you have any openday
+- can i get more information about openday
+- tell me more about openday
+- when is the openday
+- when is your next openday
+- what time is the openday
+- what day is the openday
+- where can i find more information about openday
+- when are the dates for the openday
+- where can i sign up for openday
+- can i apply for openday
+- can i register for openday
+- how do i apply for openday
+- how do i register for openday
+- do you organise openday
+- does tu delft organise openday
+- is there any openday organised
+- i would like to know more about openday
+- are there any campus tour
+- can i go on a campus tour
+- do you have any campus tour
+- can i get more information about campus tour
+- tell me more about campus tour
+- when is the campus tour
+- when is your next campus tour
+- what time is the campus tour
+- what day is the campus tour
+- where can i find more information about campus tour
+- when are the dates for the campus tour
+- where can i sign up for campus tour
+- can i apply for campus tour
+- can i register for campus tour
+- how do i apply for campus tour
+- how do i register for campus tour
+- do you organise campus tour
+- does tu delft organise campus tour
+- is there any campus tour organised
+- i would like to know more about campus tour
+- are there any university tours
+- can i go on a university tours
+- do you have any university tours
+- can i get more information about university tours
+- tell me more about university tours
+- when is the university tours
+- when is your next university tours
+- what time is the university tours
+- what day is the university tours
+- where can i find more information about university tours
+- when are the dates for the university tours
+- where can i sign up for university tours
+- can i apply for university tours
+- can i register for university tours
+- how do i apply for university tours
+- how do i register for university tours
+- do you organise university tours
+- does tu delft organise university tours
+- is there any university tours organised
+- i would like to know more about university tours
+- are there any university visit
+- can i go on a university visit
+- do you have any university visit
+- can i get more information about university visit
+- tell me more about university visit
+- when is the university visit
+- when is your next university visit
+- what time is the university visit
+- what day is the university visit
+- where can i find more information about university visit
+- when are the dates for the university visit
+- where can i sign up for university visit
+- can i apply for university visit
+- can i register for university visit
+- how do i apply for university visit
+- how do i register for university visit
+- do you organise university visit
+- does tu delft organise university visit
+- is there any university visit organised
+- i would like to know more about university visit
+- i would like to visit university
+- is it possible to visit university
+- can i visit university
+- are there tours of university organised
+- when can i visit university
+- will it be possible to visit university
+- can i get a tour of university
+- i would like to visit campus
+- is it possible to visit campus
+- can i visit campus
+- are there tours of campus organised
+- when can i visit campus
+- will it be possible to visit campus
+- can i get a tour of campus
+- i would like to visit tu delft
+- is it possible to visit tu delft
+- can i visit tu delft
+- are there tours of tu delft organised
+- when can i visit tu delft
+- will it be possible to visit tu delft
+- can i get a tour of tu delft

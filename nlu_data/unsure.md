@@ -1,0 +1,11 @@
+## intent:unsure
+- am i well suited to embedded systems
+- am i good enough to do this
+- am I smart enough to do this
+- am I really smart enough to do this
+- is this the right study for me
+- is it a good idea for me to do cs
+- is embedded systems the right one for me
+- should i study computer science
+- I don t know
+- i have a hard time choosing a study for next year

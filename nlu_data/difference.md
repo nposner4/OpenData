@@ -1,0 +1,65 @@
+## intent: difference
+- do computer science and embedded systems have significant differences
+- is there a difference between cs and embedded masters
+- how would you compare embedded systems and cs
+- what is the difference between computer science and embedded systems
+- what degrees are available
+- what other degrees are available
+- do embedded systems and computer science have significant differences
+- is there a difference between computer science and embedded systems
+- is there a difference between embedded systems and computer science
+- what is the difference between computer science and embedded systems
+- what is the difference between embedded systems and computer science
+- how would you compare computer science and embedded systems
+- how would you compare embedded systems and computer science
+- comparison computer science and embedded systems
+- comparison embedded systems and computer science
+- i am hesitating between computer science and embedded systems
+- i am hesitating between embedded systems and computer science
+- difference computer science and embedded systems
+- difference embedded systems and computer science
+- difference between computer science and embedded systems
+- difference between embedded systems and computer science
+- computer science vs embedded systems
+- embedded systems vs computer science
+- do computer engineering and embedded systems have significant differences
+- do embedded systems and computer engineering have significant differences
+- is there a difference between computer engineering and embedded systems
+- is there a difference between embedded systems and computer engineering
+- what is the difference between computer engineering and embedded systems
+- what is the difference between embedded systems and computer engineering
+- how would you compare computer engineering and embedded systems
+- how would you compare embedded systems and computer engineering
+- comparison computer engineering and embedded systems
+- comparison embedded systems and computer engineering
+- i am hesitating between computer engineering and embedded systems
+- i am hesitating between embedded systems and computer engineering
+- difference computer engineering and embedded systems
+- difference embedded systems and computer engineering
+- difference between computer engineering and embedded systems
+- difference between embedded systems and computer engineering
+- computer engineering vs embedded systems
+- embedded systems vs computer engineering
+- do electrical engineering and embedded systems have significant differences
+- do embedded systems and electrical engineering have significant differences
+- is there a difference between electrical engineering and embedded systems
+- is there a difference between embedded systems and electrical engineering
+- what is the difference between electrical engineering and embedded systems
+- what is the difference between embedded systems and electrical engineering
+- how would you compare electrical engineering and embedded systems
+- how would you compare embedded systems and electrical engineering
+- comparison electrical engineering and embedded systems
+- comparison embedded systems and electrical engineering
+- i am hesitating between electrical engineering and embedded systems
+- i am hesitating between embedded systems and electrical engineering
+- difference electrical engineering and embedded systems
+- difference embedded systems and electrical engineering
+- difference between electrical engineering and embedded systems
+- difference between embedded systems and electrical engineering
+- electrical engineering vs embedded systems
+- embedded systems vs electrical engineering
+- what are the other programmes
+- can you tell me what the other programmes are 
+- what others are there
+- what are the other possibilities
+- what are the different possibilities

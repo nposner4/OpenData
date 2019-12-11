@@ -1,0 +1,61 @@
+## intent:career
+- career
+- career prospects
+- career services
+- cv
+- job
+- job after study
+- internships available
+- summer jobs available
+- can i easily get a job
+- what job can i get
+- what job can i have
+- what job will i get
+- what job will i have
+- what career can i get
+- what career can i have
+- what career will i get
+- what career will i have
+- job recruitment
+- what career prospects
+- what are the career prospects
+- what are the career prospects in this field
+- are internships available how can i find them
+- are internships available where can i find them
+- can i get a job at top companies
+- do employers recruit students on campus
+- do students get recruited by employers on campus
+- i want to register for an internship
+- how easy is it to find jobs
+- how easy is it to find work
+- how easy is it to find internship
+- how difficult is it to find jobs
+- how difficult is it to find work
+- how difficult is it to find internship
+- what type of career services do you have
+- what type of career services do you currently have
+- What are the possibilities after finishing the study
+- i wanna know more about career prospects
+- i think i want to become a software engineer
+- i want to create games
+- i want to make games
+- make apps
+- i want to become an app developer
+- a software test engineer
+- i want to be a programmer analyst
+- work as a network engineer
+- i want to become a business analyst
+- i want to be a program manager
+- a systems engineer
+- web developer
+- software architect
+- i want to test software
+- information technology specialist
+- data analysts
+- multimedia programmer
+- it consultant
+- games developer
+- database administrator
+- machine learning engineer
+- cyber security analyst
+- i want to be in cyber security

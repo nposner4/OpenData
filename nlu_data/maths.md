@@ -1,0 +1,86 @@
+## intent:maths
+- do i need to be good at maths for embedded systems
+- do i need to be very good at maths
+- do I have to be good at maths
+- does the study have a lot of maths
+- how good do i need to be at maths
+- is there a lot of maths
+- is the maths intensive
+- i like to do math
+- should i have high scores for maths
+- what grade do i need for maths in order to study embedded
+- what level should my maths be at for embedded study
+- what level of maths is expected
+- what level of maths is required
+- do i need to be good at mathematics for embedded systems
+- do i need to be very good at mathematics
+- do I have to be good at mathematics
+- does the study have a lot of mathematics
+- how good do i need to be at mathematics
+- is there a lot of mathematics
+- is the mathematics intensive
+- should i have high scores for mathematics
+- what grade do i need for mathematics in order to study embedded
+- what level should my mathematics be at for embedded study
+- what level of mathematics is expected
+- what level of mathematics is required
+- do i need to be good at calculus for embedded systems
+- do i need to be very good at calculus
+- do I have to be good at calculus
+- does the study have a lot of calculus
+- how good do i need to be at calculus
+- is there a lot of calculus
+- is the calculus intensive
+- should i have high scores for calculus
+- what grade do i need for calculus in order to study embedded
+- what level should my calculus be at for embedded study
+- what level of calculus is expected
+- what level of calculus is required
+- do i need to be good at linear algebra for embedded systems
+- do i need to be very good at linear algebra
+- do I have to be good at linear algebra
+- does the study have a lot of linear algebra
+- how good do i need to be at linear algebra
+- is there a lot of linear algebra
+- is the linear algebra intensive
+- should i have high scores for linear algebra
+- what grade do i need for linear algebra in order to study embedded
+- what level should my linear algebra be at for embedded study
+- what level of linear algebra is expected
+- what level of linear algebra is required
+- do i need to be good at algebra for embedded systems
+- do i need to be very good at algebra
+- do I have to be good at algebra
+- does the study have a lot of algebra
+- how good do i need to be at algebra
+- is there a lot of algebra
+- is the algebra intensive
+- should i have high scores for algebra
+- what grade do i need for algebra in order to study embedded
+- what level should my algebra be at for embedded study
+- what level of algebra is expected
+- what level of algebra is required
+- do i need to be good at statistics for embedded systems
+- do i need to be very good at statistics
+- do I have to be good at statistics
+- does the study have a lot of statistics
+- how good do i need to be at statistics
+- is there a lot of statistics
+- is the statistics intensive
+- should i have high scores for statistics
+- what grade do i need for statistics in order to study embedded
+- what level should my statistics be at for embedded study
+- what level of statistics is expected
+- what level of statistics is required
+- do i need to be good at probability for embedded systems
+- do i need to be very good at probability
+- do I have to be good at probability
+- does the study have a lot of probability
+- how good do i need to be at probability
+- is there a lot of probability
+- is the probability intensive
+- should i have high scores for probability
+- what grade do i need for probability in order to study embedded
+- what level should my probability be at for embedded study
+- what level of probability is expected
+- what level of probability is required

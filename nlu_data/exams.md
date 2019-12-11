@@ -1,0 +1,145 @@
+## intent:exams
+- are exams hard
+- are exams difficult
+- do i need to register for exams
+- how many exams are there
+- how can i register for exams
+- what do i do if i miss exams
+- when are the exams
+- when are exams
+- when do the exams start
+- what time can i register for exams
+- when can i register for exams
+- what time does the registration for exams open
+- what time does the registration for exams start
+- what time does the registration for exams close
+- when does the registration for exams open
+- when does the registration for exams close
+- what time can i register for exams
+- what time does the registration for exams open
+- what time does the registration for exams start
+- what time does the registration for exams close
+- where do i sign up to exams
+- where do i sign up for exams
+- where can i register for exams
+- is an exam hard
+- is an exam difficult
+- do i need to register for an exam
+- how can i register for an exam
+- what do i do if i miss an exam
+- when is the exam
+- when is an exam
+- when does an exam start
+- what time can i register for an exam
+- when can i register for an exam
+- what time does the registration for an exam open
+- what time does the registration for an exam start
+- what time does the registration for an exam close
+- when does the registration for an exam open
+- when does the registration for an exam close
+- what time can i register for an exam
+- what time does the registration for an exam open
+- what time does the registration for an exam start
+- what time does the registration for an exam close
+- where do i sign up to an exam
+- where do i sign up for an exam
+- where can i register for an exam
+- is a midterm hard
+- is a midterm difficult
+- do i need to register for a midterm
+- how many a midterm are there
+- how can i register for a midterm
+- what do i do if i miss a midterm
+- when is a midterm
+- when is a midterm
+- when does a midterm start
+- what time can i register for a midterm
+- when can i register for a midterm
+- what time does the registration for a midterm open
+- what time does the registration for a midterm start
+- what time does the registration for a midterm close
+- when does the registration for a midterm open
+- when does the registration for a midterm close
+- what time can i register for a midterm
+- what time does the registration for a midterm open
+- what time does the registration for a midterm start
+- what time does the registration for a midterm close
+- where do i sign up to a midterm
+- where do i sign up for a midterm
+- where can i register for a midterm
+- are midterms hard
+- are midterms difficult
+- do i need to register for midterms
+- how many midterms are there
+- how can i register for midterms
+- what do i do if i miss midterms
+- when are the midterms
+- when are midterms
+- when do the midterms start
+- what time can i register for midterms
+- when can i register for midterms
+- what time does the registration for midterms open
+- what time does the registration for midterms start
+- what time does the registration for midterms close
+- when does the registration for midterms open
+- when does the registration for midterms close
+- what time can i register for midterms
+- what time does the registration for midterms open
+- what time does the registration for midterms start
+- what time does the registration for midterms close
+- where do i sign up to midterms
+- where do i sign up for midterms
+- where can i register for midterms
+- is a final exam hard
+- is a final exam difficult
+- do i need to register for a final exam
+- how many a final exam are there
+- how can i register for a final exam
+- what do i do if i miss an a final exam
+- when is the final exam
+- when is a final exam
+- when do the a final exam start
+- what time can i register for a final exam
+- when can i register for a final exam
+- what time does the registration for a final exam open
+- what time does the registration for a final exam start
+- what time does the registration for a final exam close
+- when does the registration for a final exam open
+- when does the registration for a final exam close
+- what time can i register for a final exam
+- what time does the registration for a final exam open
+- what time does the registration for a final exam start
+- what time does the registration for a final exam close
+- where do i sign up to a final exam
+- where do i sign up for a final exam
+- where can i register for a final exam
+- are finals hard
+- are finals difficult
+- do i need to register for finals
+- how many finals are there
+- how can i register for finals
+- what do i do if i miss finals
+- when are the finals
+- when are finals
+- when do the finals start
+- what time can i register for finals
+- when can i register for finals
+- what time does the registration for finals open
+- what time does the registration for finals start
+- what time does the registration for finals close
+- when does the registration for finals open
+- when does the registration for finals close
+- what time can i register for finals
+- what time does the registration for finals open
+- what time does the registration for finals start
+- what time does the registration for finals close
+- where do i sign up to finals
+- where do i sign up for finals
+- where can i register for finals
+- do you have information about osiris
+- can i get infomation about osiris
+- could you tell me a bit about osiris
+- what is osiris
+- how do i use osiris
+- what do i use osiris for
+- what is the website that i need to use to apply for an exam

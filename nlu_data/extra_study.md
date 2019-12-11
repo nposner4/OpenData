@@ -1,0 +1,106 @@
+## intent:extra_study
+- am i able to take extra classes
+- am i able to do extra classes
+- am i able to sign up for extra classes
+- am i able to register for extra classes
+- do you offer any extra classes
+- are extra classes offered
+- are there extra classes
+- are there any extra classes offered
+- are there any extra classes
+- is it possible to do extra classes
+- is it possible to take extra classes
+- is it possible to sign up for extra classes
+- is it possible to register for extra classes
+- i want to take extra classes
+- i want to sign up for extra classes
+- i want to do extra classes
+- is there the possibility to do extra classes
+- is there the possibility to take extra classes
+- is there the possibility to sign up for extra classes
+- can i take extra classes
+- can i do extra classes
+- can i sign up for extra classes
+- can i register for extra classes
+- am i able to take extra courses
+- am i able to do extra courses
+- am i able to sign up for extra courses
+- am i able to register for extra courses
+- do you offer any extra courses
+- are extra courses offered
+- are there extra courses
+- are there any extra courses offered
+- are there any extra courses
+- is it possible to do extra courses
+- is it possible to take extra courses
+- is it possible to sign up for extra courses
+- is it possible to register for extra courses
+- i want to take extra courses
+- i want to sign up for extra courses
+- i want to do extra courses
+- is there the possibility to do extra courses
+- is there the possibility to take extra courses
+- is there the possibility to sign up for extra courses
+- can i take extra courses
+- can i do extra courses
+- can i sign up for extra courses
+- can i register for extra courses
+- am i able to take additional courses
+- am i able to do additional courses
+- am i able to sign up for additional courses
+- am i able to register for additional courses
+- do you offer any additional courses
+- are additional courses offered
+- are there additional courses
+- are there any additional courses offered
+- are there any additional courses
+- is it possible to do additional courses
+- is it possible to take additional courses
+- is it possible to sign up for additional courses
+- is it possible to register for additional courses
+- i want to take additional courses
+- i want to sign up for additional courses
+- i want to do additional courses
+- is there the possibility to do additional courses
+- is there the possibility to take additional courses
+- is there the possibility to sign up for additional courses
+- can i take additional courses
+- can i do additional courses
+- can i sign up for additional courses
+- can i register for additional courses
+- am i able to take more classes
+- am i able to do more classes
+- am i able to sign up for more classes
+- am i able to register for more classes
+- is it possible to do more classes
+- is it possible to take more classes
+- is it possible to sign up for more classes
+- is it possible to register for more classes
+- i want to take more classes
+- i want to sign up for more classes
+- i want to do more classes
+- is there the possibility to do more classes
+- is there the possibility to take more classes
+- is there the possibility to sign up for more classes
+- can i take more classes
+- can i do more classes
+- can i sign up for more classes
+- can i register for more classes
+- am i able to take more courses
+- am i able to do more courses
+- am i able to sign up for more courses
+- am i able to register for more courses
+- is it possible to do more courses
+- is it possible to take more courses
+- is it possible to sign up for more courses
+- is it possible to register for more courses
+- i want to take more courses
+- i want to sign up for more courses
+- i want to do more courses
+- is there the possibility to do more courses
+- is there the possibility to take more courses
+- is there the possibility to sign up for more courses
+- can i take more courses
+- can i do more courses
+- can i sign up for more courses
+- can i register for more courses

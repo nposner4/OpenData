@@ -1,0 +1,26 @@
+## intent:short_time
+- a short time
+- a few days
+- last week
+- a few weeks
+- last 24 hours
+- yesterday
+- early this morning
+- last night
+- yesterday afternoon
+- suddenly
+- all of a sudden
+- out of nowhere
+- quickly
+- abruptly
+- all of a sudden
+- last night
+- all of a sudden
+- sometime yesterday
+- last 24 hours or so
+- started this late last night
+- It came on suddenly Since yesterday
+- just started
+- only for a few days
+- not very long
+- only for a short while

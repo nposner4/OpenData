@@ -1,0 +1,26 @@
+## intent: grading
+- how are grades determined by tu delft
+- what is the tu delft grading system
+- what is a passing grade at tu delft
+- how many points do i need to pass an exam
+- what is the amount of required points to pass an exam
+- what grade do i need to pass an exam 
+- how good does my grade need to be to pass an exam
+- how many points do i need to pass a midterm
+- what is the amount of required points to pass a midterm
+- what grade do i need to pass a midterm 
+- how good does my grade need to be to pass a midterm
+- how many points do i need to pass a final
+- what is the amount of required points to pass a final
+- what grade do i need to pass a final 
+- how good does my grade need to be to pass a final
+- what is the minimum passing grade
+- what is the minimum amount of points
+- how much do i need to pass
+- how many points are required
+- how are the exams graded
+- how are the midterms graded
+- how are the finals graded
+- who grades the exams
+- who grades the midterms
+- who grades the finals

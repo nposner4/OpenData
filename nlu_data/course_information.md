@@ -1,0 +1,267 @@
+## intent:course_information
+- curriculum
+- study programme
+- i would like more information on the curriculum
+- how can i find out which course are taken each quarter
+- what is the most difficult course
+- where can i find information about the course
+- where is the information about the course
+- where is course information
+- how much ec is this course worth
+- how much credits is this course worth
+- how much credits do i get for this course
+- how many ec for this course
+- how many credits for this course
+- how much ec do i get for this course
+- when is this course
+- do i get to choose which course i can take
+- does embedded systems have any course
+- will i get to choose any course
+- what choices do i have for course
+- how can i find out which class are taken each quarter
+- what is the most difficult class
+- where can i find information about the class
+- where is the information about the class
+- where is class information
+- how much ec is this class worth
+- how much credits is this class worth
+- how much credits do i get for this class
+- how many ec for this class
+- how many credits for this class
+- how much ec do i get for this class
+- when is this class
+- do i get to choose which class i can take
+- does embedded systems have any class
+- will i get to choose any class
+- what choices do i have for class
+- how can i find out which electives are taken each quarter
+- what is the most difficult electives
+- where can i find information about the electives
+- where is the information about the electives
+- where is electives information
+- how much ec is this electives worth
+- how much credits is this electives worth
+- how much credits do i get for this electives
+- how many ec for this electives
+- how many credits for this electives
+- how much ec do i get for this electives
+- when is this electives
+- do i get to choose which electives i can take
+- does embedded systems have any electives
+- will i get to choose any electives
+- what choices do i have for electives
+- how can i find out which specialisation courses are taken each quarter
+- what is the most difficult specialisation courses
+- where can i find information about the specialisation courses
+- where is the information about the specialisation courses
+- where is specialisation courses information
+- how much ec is this specialisation courses worth
+- how much credits is this specialisation courses worth
+- how much credits do i get for this specialisation courses
+- how many ec for this specialisation courses
+- how many credits for this specialisation courses
+- how much ec do i get for this specialisation courses
+- when is this specialisation courses
+- do i get to choose which specialisation courses i can take
+- does embedded systems have any specialisation courses
+- will i get to choose any specialisation courses
+- what choices do i have for specialisation courses
+- how can i find out which specialization courses are taken each quarter
+- what is the most difficult specialization courses
+- where can i find information about the specialization courses
+- where is the information about the specialization courses
+- where is specialization courses information
+- how much ec is this specialization courses worth
+- how much credits is this specialization courses worth
+- how much credits do i get for this specialization courses
+- how many ec for this specialization courses
+- how many credits for this specialization courses
+- how much ec do i get for this specialization courses
+- when is this specialization courses
+- do i get to choose which specialization courses i can take
+- does embedded systems have any specialization courses
+- will i get to choose any specialization courses
+- what choices do i have for specialization courses
+- system validation information
+- information about system validation
+- information about the system validation course
+- modern computer architectures	information
+- information about modern computer architectures
+- information about the modern computer architectures course
+- real-time systems	information
+- information about real-time systems
+- information about the real-time systems course
+- embedded systems lab information
+- information about embedded systems lab
+- information about the embedded systems lab course
+- specialisation courses information
+- information about specialisation courses
+- information about the specialisation courses
+- how do i decide which specialisation course
+- what specialisation course
+- which specialisation course
+- software & networking	information
+- information about software & networking
+- information about the software & networking courses
+- computer architecture	information
+- information about computer architecture
+- information about the computer architecture courses
+- control systems information
+- information about control systems
+- information about the control systems course
+- algorithms for planning and scheduling information
+- information about algorithms for planning and scheduling
+- information about the algorithms for planning and scheduling course
+- high performance data networking information
+- information about high performance data networking
+- information about the high performance data networking course
+- advanced network security information
+- information about advanced network security
+- information about the advanced network security course
+- compiler construction information
+- information about compiler construction
+- information about the compiler construction course
+- compiler construction project information
+- information about compiler construction project
+- information about the compiler construction project course
+- evolutionary algorithms information
+- information about evolutionary algorithms
+- information about the evolutionary algorithms course
+- algorithms for intelligent decision making information
+- information about algorithms for intelligent decision making
+- information about the algorithms for intelligent decision making course
+- intelligent decision making project information
+- information about intelligent decision making project
+- information about the intelligent decision making project course
+- networking information
+- information about networking
+- information about the networking course
+- measuring and simulating the internet information
+- information about measuring and simulating the internet
+- information about the measuring and simulating the internet course
+- wireless communications information
+- information about wireless communications
+- information about the wireless communications course
+- ad-hoc networks information
+- information about ad-hoc networks
+- information about the ad-hoc networks course
+- wireless networking information
+- information about wireless networking
+- information about the wireless networking course
+- network security information
+- information about network security
+- information about the network security course
+- distributed algorithms information
+- information about distributed algorithms
+- information about the distributed algorithms course
+- smart phone sensing information
+- information about smart phone sensing
+- information about the smart phone sensing course
+- advanced algorithms information
+- information about advanced algorithms
+- information about the advanced algorithms course
+- software architecture information
+- information about software architecture
+- information about the software architecture course
+- real-time software development information
+- information about real-time software development
+- information about the real-time software development course
+- internet of things seminar information
+- information about internet of things seminar
+- information about the internet of things seminar course
+- electronics for quantum computation information
+- information about electronics for quantum computation
+- information about the electronics for quantum computation course
+- digital ic design information
+- information about digital ic design
+- information about the digital ic design course
+- digital ic design ii information
+- information about digital ic design ii
+- information about the digital ic design ii course
+- advanced computing systems information
+- information about advanced computing systems
+- information about the advanced computing systems course
+- methods and algorithms for system design information
+- information about methods and algorithms for system design
+- information about the methods and algorithms for system design course
+- vlsi test technology & reliability information
+- information about vlsi test technology & reliability
+- information about the vlsi test technology & reliability course
+- computer arithmetic information
+- information about computer arithmetic
+- information about the computer arithmetic course
+- processor design project information
+- information about processor design project
+- information about the processor design project course
+- vlsi systems on chip information
+- information about vlsi systems on chip
+- information about the vlsi systems on chip course
+- embedded computer architectures 2 information
+- information about embedded computer architectures 2
+- information about the embedded computer architectures 2 course
+- control system design information
+- information about control system design
+- information about the control system design course
+- robust and multivariable control design information
+- information about robust and multivariable control design
+- information about the robust and multivariable control design course
+- control theory information
+- information about control theory
+- information about the control theory course
+- filtering & identification information
+- information about filtering & identification
+- information about the filtering & identification course
+- control systems lab information
+- information about control systems lab
+- information about the control systems lab course
+- knowledge based control systems information
+- information about knowledge based control systems
+- information about the knowledge based control systems course
+- optimization in systems and control information
+- information about optimization in systems and control
+- information about the optimization in systems and control course
+- nonlinear systems theory information
+- information about nonlinear systems theory
+- information about the nonlinear systems theory course
+- modelling and control of hybrid systems information
+- information about modelling and control of hybrid systems
+- information about the modelling and control of hybrid systems course
+- digital control information
+- information about digital control
+- information about the digital control course
+- networked and distributed control systems information
+- information about networked and distributed control systems
+- information about the networked and distributed control systems course
+- dynamic programming and stochastic control information
+- information about dynamic programming and stochastic control
+- information about the dynamic programming and stochastic control course
+- adaptive control information
+- information about adaptive control
+- information about the adaptive control course
+- model predictive control information
+- information about model predictive control
+- information about the model predictive control course
+- fault diagnosis and fault tolerant control information
+- information about fault diagnosis and fault tolerant control
+- information about the fault diagnosis and fault tolerant control course
+- do i get to choose which classes i can take
+- does embedded systems have any electives
+- will i get to choose any electives
+- what choices do i have for classes
+- i need your help in getting some info
+- can you give me some info
+- i need some details
+- will you provide some details
+- can you fetch some details for me
+- would you mind giving me some details
+- where can i find the curriculum
+- is there a curriculum
+- is there a course overview
+- give me a course overview
+- can you give me the curriculum
+- can you give me a curriculum
+- can you give me a course overview
+- where can i find the syllabus
+- does there already exist a course programme
+- please give me the educational programme
+

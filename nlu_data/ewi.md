@@ -1,0 +1,89 @@
+## intent:ewi
+- is ewi open at
+- is ewi open on
+- is ewi closed at
+- is ewi closed on
+- does ewi open at
+- does ewi close at
+- when is ewi open
+- when is ewi close
+- when does ewi open
+- when does ewi close
+- what time does ewi open
+- what time does ewi close
+- is ewi open on weekends
+- is ewi open during the vacation
+- is ewi open during the holidays
+- is ewi closed on weekends
+- is ewi closed during the vacation
+- is ewi closed during the holidays
+- where is ewi
+- where can i access ewi
+- how do i get to ewi
+- which building is ewi
+- is the ewi building open at
+- is the ewi building open on
+- is the ewi building closed at
+- is the ewi building closed on
+- does the ewi building open at
+- does the ewi building close at
+- when is the ewi building open
+- when is the ewi building close
+- when does the ewi building open
+- when does the ewi building close
+- what time does the ewi building open
+- what time does the ewi building close
+- is the ewi building open on weekends
+- is the ewi building open during the vacation
+- is the ewi building open during the holidays
+- is the ewi building closed on weekends
+- is the ewi building closed during the vacation
+- is the ewi building closed during the holidays
+- where is the ewi building
+- where can i access the ewi building
+- how do i get to the ewi building
+- which building is the ewi building
+- is the ewi faculty open at
+- is the ewi faculty open on
+- is the ewi faculty closed at
+- is the ewi faculty closed on
+- does the ewi faculty open at
+- does the ewi faculty close at
+- when is the ewi faculty open
+- when is the ewi faculty close
+- when does the ewi faculty open
+- when does the ewi faculty close
+- what time does the ewi faculty open
+- what time does the ewi faculty close
+- is the ewi faculty open on weekends
+- is the ewi faculty open during the vacation
+- is the ewi faculty open during the holidays
+- is the ewi faculty closed on weekends
+- is the ewi faculty closed during the vacation
+- is the ewi faculty closed during the holidays
+- where is the ewi faculty
+- where can i access the ewi faculty
+- how do i get to the ewi faculty
+- which building is the ewi faculty
+- is the faculty of electrical engineering mathematics and computer science open at
+- is the faculty of electrical engineering mathematics and computer science open on
+- is the faculty of electrical engineering mathematics and computer science closed at
+- is the faculty of electrical engineering mathematics and computer science closed on
+- does the faculty of electrical engineering mathematics and computer science open at
+- does the faculty of electrical engineering mathematics and computer science close at
+- when is the faculty of electrical engineering mathematics and computer science open
+- when is the faculty of electrical engineering mathematics and computer science close
+- when does the faculty of electrical engineering mathematics and computer science open
+- when does the faculty of electrical engineering mathematics and computer science close
+- what time does the faculty of electrical engineering mathematics and computer science open
+- what time does the faculty of electrical engineering mathematics and computer science close
+- is the faculty of electrical engineering mathematics and computer science open on weekends
+- is the faculty of electrical engineering mathematics and computer science open during the vacation
+- is the faculty of electrical engineering mathematics and computer science open during the holidays
+- is the faculty of electrical engineering mathematics and computer science closed on weekends
+- is the faculty of electrical engineering mathematics and computer science closed during the vacation
+- is the faculty of electrical engineering mathematics and computer science closed during the holidays
+- where is the faculty of electrical engineering mathematics and computer science
+- where can i access the faculty of electrical engineering mathematics and computer science
+- how do i get to the faculty of electrical engineering mathematics and computer science
+- which building is the faculty of electrical engineering mathematics and computer science

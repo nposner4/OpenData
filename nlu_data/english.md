@@ -1,0 +1,56 @@
+## intent:english
+- are the courses given in english
+- in what language are the courses given
+- do i need to be good at english
+- my english is not good enough
+- how good do i need to be at english for this study
+- what are the english language requirements
+- what language is the program in
+- what language is the programme in
+- what language is the study
+- what is the language of instruction
+- what is the working language
+- how good do i need to be in english
+- how well does my english need to be
+- which classes are in englis
+- will classes be in english
+- are classes available in english
+- which courses are in englis
+- will courses be in english
+- are courses available in english
+- what english level is required
+- what english diploma is required
+- what english level is needed
+- what english diploma is needed
+- what english level are part of the requirements
+- what english diploma are part of the requirements
+- level of english
+- english diploma requirement
+- english level requirement
+- english diploma needed
+- english level needed
+- should i be fluent in english
+- i don t speak english
+- my english is bad
+- my english is terrible
+- i don t understand english
+- i am bad at english
+- i am terrible at english
+- i don t understand english
+- i am good at english
+- i am great at english
+- my english is perfect
+- my english is great
+- is english level required
+- do i need to speak english well
+- is english diploma required
+- what level of english do i need
+- what is the english level
+- english level
+- english diploma
+- how well do i need to be speaking english
+- what level of english
+- level of english
+- is embedded systems taught in english
+- is the study in english
+- is the study completely in english

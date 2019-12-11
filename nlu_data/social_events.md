@@ -1,0 +1,53 @@
+## intent:social_events
+- are there a lot of parties in delft
+- how is the nightlife in delft
+- tell me more about the nightlife
+- social events
+- what is the social scene like
+- what is the scene like there
+- what is the music scene like
+- what is the live music scene like
+- where can i go for a drink
+- is there good places to go for a drink in delft
+- what is a good place to go for a drink
+- is it possible to go for a drink in delft
+- is it good to go for a drink in delft
+- i love to go for a drink
+- what is the best place to go for a drink
+- is it better to go for a drink in delft or den haag
+- is it better to go for a drink in delft or rotterdam
+- where can i go out
+- is there good places to go out in delft
+- what is a good place to go out
+- is it possible to go out in delft
+- is it good to go out in delft
+- i love to go out
+- what is the best place to go out
+- is it better to go out in delft or den haag
+- is it better to go out in delft or rotterdam
+- where can i find a party
+- is there good places to find a party in delft
+- what is a good place to find a party
+- is it possible to find a party in delft
+- is it good to find a party in delft
+- i love to find a party
+- what is the best place to find a party
+- is it better to find a party in delft or den haag
+- is it better to find a party in delft or rotterdam
+- where can i find parties
+- is there good places to find parties in delft
+- what is a good place to find parties
+- is it possible to find a parties in delft
+- is it good to find a parties in delft
+- what is the best place to find a parties
+- is it better to find a parties in delft or den haag
+- is it better to find a parties in delft or rotterdam
+- where can i pub crawl
+- is there good places to pub crawl in delft
+- what is a good place to pub crawl
+- is it possible to pub crawl in delft
+- is it good to pub crawl in delft
+- i love to pub crawl
+- what is the best place to pub crawl
+- is it better to pub crawl in delft or den haag
+- is it better to pub crawl in delft or rotterdam

@@ -1,0 +1,28 @@
+## intent:gender_ratio
+- what is the gender ratio
+- how many guys to girls are there
+- how many girls to guys are there
+- are their any girls in the study
+- will i be the only girl in the study
+- will i be the only female in the study
+- are there any other girls studying embedded systems
+- what is the guy to girl ratio like
+- what is the girl to guy ratio like
+- how many guys are there
+- how many girls are there
+- are there more girls than guys
+- are there more guys than girls
+- how is the gender diversity
+- how is the gender ratio
+- what is the ratio of female students
+- what is the ratio of male students
+- are there any female students
+- are there any male students
+- how many female students
+- how many male students
+- what is the statistics surrounding gender
+- what is the gender diversity like
+- i dont want to be the only female
+- i dont want to be the only girl
+- i hope there are some girls
+- i hope there are some female students
